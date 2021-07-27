@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Welcome....</h1>
+    <p class="lead">Find a Specialist Doctor</p>
+    <p><a href="@Url.Action("Doctors", "Doctors")" class="btn btn-primary btn-lg">Find a Doctor &raquo;</a></p>
+    <p class="lead">Find a Patient</p>
+    <p><a href="@Url.Action("Patients", "Patients")" class="btn btn-primary btn-lg">Find a Patient &raquo;</a></p>
+    <p class="lead">Find an Appoinment</p>
+    <p><a href="@Url.Action("Appoinments", "Appoinments")" class="btn btn-primary btn-lg">Find the appoinments &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Book an appoinment</h2>
+        <p>
+            Book an appoinment here....
+        </p>
+        <p><a class="btn btn-default" href="@Url.Action("CreateAppoinments", "Appoinments")">Book an appoinment &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Register new patients</h2>
+        <p>Register new patients here...</p>
+        <p><a class="btn btn-default" href="@Url.Action("CreatePatients", "Patients")">Create patients &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Register new doctors</h2>
+        <p>Add new doctors here....</p>
+        <p><a class="btn btn-default" href="@Url.Action("createDoctors", "Doctors")">Create doctors &raquo;</a></p>
+    </div>
+</div>

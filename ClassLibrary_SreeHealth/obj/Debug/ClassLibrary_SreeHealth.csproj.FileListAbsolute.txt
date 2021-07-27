@@ -1,0 +1,6 @@
+C:\Users\Anvi\source\repos\Sree_Health\ClassLibrary_SreeHealth\bin\Debug\ClassLibrary_SreeHealth.dll
+C:\Users\Anvi\source\repos\Sree_Health\ClassLibrary_SreeHealth\bin\Debug\ClassLibrary_SreeHealth.pdb
+C:\Users\Anvi\source\repos\Sree_Health\ClassLibrary_SreeHealth\obj\Debug\ClassLibrary_SreeHealth.csproj.CoreCompileInputs.cache
+C:\Users\Anvi\source\repos\Sree_Health\ClassLibrary_SreeHealth\obj\Debug\ClassLibrary_SreeHealth.dll
+C:\Users\Anvi\source\repos\Sree_Health\ClassLibrary_SreeHealth\obj\Debug\ClassLibrary_SreeHealth.pdb
+C:\Users\Anvi\source\repos\Sree_Health\ClassLibrary_SreeHealth\obj\Debug\ClassLibrary_SreeHealth.csprojAssemblyReference.cache

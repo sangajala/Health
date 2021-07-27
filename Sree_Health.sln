@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sree_Health", "Sree_Health\Sree_Health.csproj", "{6D4A6394-7782-4584-A37A-65264A1C5927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_SreeHealth", "ClassLibrary_SreeHealth\ClassLibrary_SreeHealth.csproj", "{EBE78B73-1821-4E28-90F4-246D5C930D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D4A6394-7782-4584-A37A-65264A1C5927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4A6394-7782-4584-A37A-65264A1C5927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4A6394-7782-4584-A37A-65264A1C5927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4A6394-7782-4584-A37A-65264A1C5927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE78B73-1821-4E28-90F4-246D5C930D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE78B73-1821-4E28-90F4-246D5C930D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE78B73-1821-4E28-90F4-246D5C930D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE78B73-1821-4E28-90F4-246D5C930D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF2E3FFD-311E-4873-A1F0-753A46D35974}
+	EndGlobalSection
+EndGlobal
