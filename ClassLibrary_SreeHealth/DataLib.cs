@@ -10,7 +10,7 @@ namespace ClassLibrary_SreeHealth
 {
     class DataLib
     {
-        string Connection = "server=DESKTOP-679JJF8;database=Sree_Health;Integrated Security=true";
+        string Connection = "Server=tcp:ittalenthub.database.windows.net,1433;Initial Catalog=ittalenthub;Persist Security Info=False;User ID=ittalenthub;Password=London12$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         public DataTable LoadData(string sp)
         {
